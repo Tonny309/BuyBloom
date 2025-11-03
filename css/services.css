@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+#fast{
+color: mediumslateblue;
+
+}
+#heading1{
+    color: rgb(9, 97, 100);
+}
+.paragraph{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#vip{
+    background-color: bisque;
+    display: flex;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 20px;
+}
+#vip img{
+margin-right: 40px;
+border-radius: 20px;
+}
+#vip:hover{
+    background-color: olive;
+    color: rgb(150, 226, 8);
+}
+
+#shipping{
+    display: flex;
+background-color: azure;
+border-radius: 20px;
+ margin: 40px;
+
+}
+
+
+#mydiv{
+    margin-left: 40px;
+
+
+}
+button{
+    background-color: burlywood;
+}
+#Taxi{
+  display: ;
+}
+
+
+
+.car-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.car-box {
+    width: 30%;
+}
+
+.car-box img {
+    width: 100%;
+    height: 150px;
+    margin: 10px 0;
+    background: none;
+}
+
+.car-box h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+h1{
+    color: chocolate;
+    font-size: 40px;
+    text-shadow: 8px 8px 8px mediumslateblue;
+}
+button{
+    background-color: lawngreen;
+    width: 150px;
+    padding: 20px;
+    margin-left:60px ;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+h2{
+    color: darkmagenta;
+
+}
+img{
+    width: 200px;
+}

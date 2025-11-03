@@ -1,0 +1,56 @@
+form{
+    background-color: rgb(96, 129, 129);
+width: 40%;
+height: 50%;
+margin: auto;
+padding: 30px;
+color: aliceblue;
+border-radius: 20px;
+box-shadow: 0 0 10px rgb(196, 75, 27);
+}
+legend{
+
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+input[type=text],input[type=email],input[type=password],input[type=date],input[type=datetime-local],input[type=tel],select{
+height: 48px;
+width: 100%;
+border-radius: 10px;
+border:none;
+margin-top: 10px;
+padding-left: 10px;
+
+
+}
+button{
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  color: white;
+  border: none;
+  padding: 15px 40px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: 0 0 20px rgba(0, 114, 255, 0.6);
+  transition: all 0.3s ease-in-out;
+  animation: glow 2s infinite alternate;
+margin: 20px auto;
+display: block;
+}
+button:hover {
+  transform: scale(1.1) rotate(2deg);
+  box-shadow: 0 0 30px rgba(0, 255, 200, 0.8);
+  background: linear-gradient(90deg, #ff00cc, #3333ff);
+}
+body{
+    background: url('../assets/bg.jpg')
+    
+}
+
+
+
